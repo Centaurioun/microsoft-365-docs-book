@@ -1,0 +1,6 @@
+[book]
+authors = ["Centaurioun"]
+language = "en"
+multilingual = false
+src = "src"
+title = "microsoft-365-docs-book"
